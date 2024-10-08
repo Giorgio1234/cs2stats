@@ -1,0 +1,21 @@
+{
+  "name": "my-hltv-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "exceljs": "^4.4.0",
+    "hltv": "^3.5.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^23.5.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
